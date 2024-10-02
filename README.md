@@ -23,7 +23,7 @@ Hey there! I'm Valérie, a passionate programmer who loves to turn tea 🍵 into
 
 Here’s what’s in my toolbox 🛠️:
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 - **Frontend**: React, HTML5, CSS3, Sass
 - **Backend**: Node.js, Express, Django
