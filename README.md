@@ -11,11 +11,11 @@ its-cutie-valerie/its-cutie-valerie is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👩‍💻 Hello, World! I'm [Your Name] 👋
+# 👩‍💻 Hello, World! I'm Valérie 👋
 
 ### 🧠 Coder, Problem Solver, and Tech Enthusiast
 
-Hey there! I'm [Your Name], a passionate programmer who loves to turn coffee ☕ into code 💻. I'm always curious about how things work and constantly learning something new. Whether it's building full-stack applications, automating tasks, or diving into algorithms, I'm always up for a coding adventure! 🚀
+Hey there! I'm Valérie, a passionate programmer who loves to turn tea 🍵 into code 💻. I'm always curious about how things work and constantly learning something new. Whether it's building full-stack applications, analysing data, or teaching machines, I'm always up for a coding adventure! 🚀
 
 ---
 
