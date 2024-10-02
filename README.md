@@ -35,7 +35,7 @@ Here’s what’s in my toolbox 🛠️:
 
 ---
 
-## 🛠️ Projects & Work
+<!---## 🛠️ Projects & Work
 
 Check out some of my favorite projects:
 
@@ -46,7 +46,7 @@ Description of your project in one or two sentences. Highlight the cool features
 Same format as above, but for another awesome project. Make sure to show off your creativity or problem-solving skills.
 
 ### 🔗 [Project 3 Title](https://github.com/yourusername/project3)
-Give a brief summary and be sure to mention any challenges you overcame or features you're particularly proud of.
+Give a brief summary and be sure to mention any challenges you overcame or features you're particularly proud of.--->
 
 ---
 
