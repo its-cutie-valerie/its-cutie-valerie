@@ -25,11 +25,11 @@ Here’s what’s in my toolbox 🛠️:
 
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-- **Frontend**: React, HTML5, CSS3, Next.js, Vue
-- **Backend**: Node.js, Express, Django
+- **Frontend**: React, HTML5, CSS3, Next.js, Vue, Angular
+- **Backend**: Node.js, Express, Django, FastAPI
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, VSCode, Postman, Linux
+- **Other Tools**: Docker, JetBrains Suite, Postman, Linux
 
 > "Programming isn't about what you know; it's about what you can figure out." 💡
 
