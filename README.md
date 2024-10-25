@@ -57,7 +57,7 @@ Here are some fun facts about me:
 - 🎮 I love playing video games in my free time (especially RPGs)!
 - 🧑‍🏫 I'm always helping others by mentoring and contributing to open-source projects.
 - 🌱 Currently learning **Rust** and improving my **cloud** skills with AWS.
-- 🎨 Besides coding, I'm also into [your hobby, e.g., drawing, music, etc.].
+- 🎨 Besides coding, I'm also into painting, writing, reading and hiking.
 
 ---
 
