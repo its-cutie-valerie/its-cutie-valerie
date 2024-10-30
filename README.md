@@ -48,7 +48,7 @@ Same format as above, but for another awesome project. Make sure to show off you
 ### 🔗 [Project 3 Title](https://github.com/yourusername/project3)
 Give a brief summary and be sure to mention any challenges you overcame or features you're particularly proud of.
 
---- --->
+--- 
 
 ## 💡 Fun Facts
 
@@ -59,7 +59,7 @@ Here are some fun facts about me:
 - 🌱 Currently learning **Rust** and improving my **cloud** skills with AWS.
 - 🎨 Besides coding, I'm also into painting, writing, reading and hiking.
 
----
+--- --->
 
 ## 🤝 Let's Connect!
 
@@ -71,8 +71,3 @@ Feel free to connect with me through these platforms:
 
 I’d love to chat about programming, collaboration opportunities, or even just nerdy stuff in general! 💬
 
----
-
-### 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
