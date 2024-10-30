@@ -59,7 +59,7 @@ Here are some fun facts about me:
 - 🌱 Currently learning **Rust** and improving my **cloud** skills with AWS.
 - 🎨 Besides coding, I'm also into painting, writing, reading and hiking.
 
---- --->
+--- 
 
 ## 🤝 Let's Connect!
 
@@ -69,5 +69,5 @@ Feel free to connect with me through these platforms:
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourhandle) 
 
-I’d love to chat about programming, collaboration opportunities, or even just nerdy stuff in general! 💬
+I’d love to chat about programming, collaboration opportunities, or even just nerdy stuff in general! 💬 --->
 
