@@ -34,7 +34,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9C27B0?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
 
   
 </div>
