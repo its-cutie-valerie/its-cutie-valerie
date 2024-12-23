@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A4B2&center=true&vCenter=true&width=460&lines=Hi+there!+👋;I'm+Val+your+favorite+nerdy+gal;Welcome+to+my+Profile!" alt="Typing SVG" />
-  <img src="https://tenor.com/view/cat-luna-sailor-moon-rain-gif-21663983" alt="Cat aesthetics" />
+  <img src="https://media1.tenor.com/m/pnMPQ_dbC4UAAAAC/cat-luna.gif" alt="Cat aesthetics" />
 </div>
 
 ## ✨ About Me 
