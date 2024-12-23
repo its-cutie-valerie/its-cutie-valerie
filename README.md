@@ -19,7 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=for-the-badge&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML5-FFB6C1?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS3-FFB6C1?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-CPP-FFB6C1?style=for-the-badge&logo=cpp)
+  ![C++](https://img.shields.io/badge/-C++-FFB6C1?style=for-the-badge&logo=c++)
   
 </div>
 
