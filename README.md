@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A4B2&center=true&vCenter=true&width=460&lines=Hi+there!+👋;I'm+Val+your+favorite+nerdy+gal;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <div class="tenor-gif-embed" data-postid="21663983" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/cat-luna-sailor-moon-rain-gif-21663983">Cat Luna GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ## ✨ About Me 
