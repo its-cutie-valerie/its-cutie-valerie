@@ -29,3 +29,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-cutie-valerie&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-cutie-valerie&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
+
+## 🌸 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=9C27B0&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
