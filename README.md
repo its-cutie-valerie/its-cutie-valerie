@@ -1,73 +1,41 @@
-<!---- 👋 Hi, I’m @its-cutie-valerie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... --->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7A4B2&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+a+Software+Engineer;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
 
-<!---
-its-cutie-valerie/its-cutie-valerie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✨ About Me 
 
-# 👩‍💻 Hello, World! I'm Valérie 👋
+🎓 Software Engineering Student  
+💻 Passionate about creating elegant solutions  
+🌱 Currently learning and growing in tech  
+✨ Turning coffee into code  
 
-### 🧠 Coder, Problem Solver, and Tech Enthusiast
+## 🛠️ Tech Stack
 
-Hey there! I'm Valérie, a passionate programmer who loves to turn tea 🍵 into code 💻. I'm always curious about how things work and constantly learning something new. Whether it's building full-stack applications, analysing data, or teaching machines, I'm always up for a coding adventure! 🚀
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/-Python-FFB6C1?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-FFB6C1?style=for-the-badge&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=for-the-badge&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML5-FFB6C1?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS3-FFB6C1?style=for-the-badge&logo=css3)
+  
+</div>
 
----
+## 📊 GitHub Stats
 
-## 🚀 Skills & Technologies
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-cutie-valerie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-cutie-valerie&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here’s what’s in my toolbox 🛠️:
+## 🌸 Let's Connect!
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+  
+</div>
 
-- **Frontend**: React, HTML5, CSS3, Next.js, Vue, Angular
-- **Backend**: Node.js, Express, Django, FastAPI
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Version Control**: Git, GitHub
-- **Other Tools**: Docker, JetBrains Suite, Postman, Linux
-
-> "Programming isn't about what you know; it's about what you can figure out." 💡
-
----
-
-<!---## 🛠️ Projects & Work
-
-Check out some of my favorite projects:
-
-### 🔗 [Project 1 Title](https://github.com/yourusername/project1)
-Description of your project in one or two sentences. Highlight the cool features, tech stack, and why you loved working on it! 😎
-
-### 🔗 [Project 2 Title](https://github.com/yourusername/project2)
-Same format as above, but for another awesome project. Make sure to show off your creativity or problem-solving skills.
-
-### 🔗 [Project 3 Title](https://github.com/yourusername/project3)
-Give a brief summary and be sure to mention any challenges you overcame or features you're particularly proud of.
-
---- 
-
-## 💡 Fun Facts
-
-Here are some fun facts about me:
-
-- 🎮 I love playing video games in my free time (especially RPGs)!
-- 🧑‍🏫 I'm always helping others by mentoring and contributing to open-source projects.
-- 🌱 Currently learning **Rust** and improving my **cloud** skills with AWS.
-- 🎨 Besides coding, I'm also into painting, writing, reading and hiking.
-
---- 
-
-## 🤝 Let's Connect!
-
-Feel free to connect with me through these platforms:
-
-- [GitHub](https://github.com/yourusername) 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle) 
-
-I’d love to chat about programming, collaboration opportunities, or even just nerdy stuff in general! 💬 --->
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=FFB6C1&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
