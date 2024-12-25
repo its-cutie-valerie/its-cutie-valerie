@@ -5,7 +5,7 @@
 
 ## ✨ About Me 
 
-🎓 Software Engineering Student  
+🎓 That one gal with the craziest ideas which actually work in the end  
 🐜 Smacking bugs like nobody else  
 🌱 Currently learning and growing in tech  
 ✨ Turning coffee into code  
