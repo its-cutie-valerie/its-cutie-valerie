@@ -7,7 +7,7 @@
 
 🎓 That one gal with the craziest ideas which actually work in the end  
 🐜 Smacking bugs like nobody else  
-📚 Big bookworm, painting women until I get one 
+📚 Big bookworm, painting women until I get one  
 🥤 Turning energy drinks into code  
 
 ## 🛠️ Tech Stack
