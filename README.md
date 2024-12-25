@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=781e44&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal;Welcome+to+my+Profile!" alt="Typing SVG" />
-  <img src="https://media1.tenor.com/m/fFUaQ62gNx8AAAAC/demon-girl-demon-transformation.gif" alt="Val"/>
+  <img src="https://media1.tenor.com/m/pnMPQ_dbC4UAAAAC/cat-luna.gif" alt="Cat aesthetics" />
 </div>
 
 ## ✨ About Me 
 
-🎓 Software Engineering Student
+🎓 Software Engineering Student  
 💻 Passionate about creating elegant solutions  
 🌱 Currently learning and growing in tech  
 ✨ Turning coffee into code  
