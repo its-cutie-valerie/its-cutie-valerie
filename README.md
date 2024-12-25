@@ -6,7 +6,7 @@
 ## ✨ About Me 
 
 🎓 Software Engineering Student  
-💻 Passionate about creating elegant solutions  
+🐜 Smacking bugs like nobody else  
 🌱 Currently learning and growing in tech  
 ✨ Turning coffee into code  
 
