@@ -34,11 +34,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-781e44?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
 
   
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=FFB6C1&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=781e44&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
