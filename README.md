@@ -7,7 +7,7 @@
 
 🎓 That one gal with the craziest ideas which actually work in the end  
 🐜 Smacking bugs like nobody else  
-🌱 Currently learning and growing in tech  
+📚 Big bookworm, painting women until I get one 
 ✨ Turning coffee into code  
 
 ## 🛠️ Tech Stack
