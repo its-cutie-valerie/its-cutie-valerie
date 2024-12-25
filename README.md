@@ -14,12 +14,12 @@
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-FFB6C1?style=for-the-badge&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-FFB6C1?style=for-the-badge&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=for-the-badge&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML5-FFB6C1?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS3-FFB6C1?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-FFB6C1?style=for-the-badge&logo=c++)
+  ![Python](https://img.shields.io/badge/-Python-781e44?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-781e44?style=for-the-badge&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-781e44?style=for-the-badge&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML5-781e44?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS3-781e44?style=for-the-badge&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-781e44?style=for-the-badge&logo=c++)
   
 </div>
 
