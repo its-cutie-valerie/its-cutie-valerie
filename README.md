@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal;Welcome+to+my+Profile!" alt="Typing SVG" />
-  <img src="https://media1.tenor.com/m/pnMPQ_dbC4UAAAAC/cat-luna.gif" alt="Cat aesthetics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=781e44&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/fFUaQ62gNx8AAAAC/demon-girl-demon-transformation.gif" alt="V" />
 </div>
 
 ## ✨ About Me 
