@@ -14,12 +14,12 @@
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-781e44?style=for-the-badge&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-781e44?style=for-the-badge&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-781e44?style=for-the-badge&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML5-781e44?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS3-781e44?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-781e44?style=for-the-badge&logo=c++)
+  ![Python](https://img.shields.io/badge/-Python-CFBFF7?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-CFBFF7?style=for-the-badge&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-CFBFF7?style=for-the-badge&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML5-CFBFF7?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS3-CFBFF7?style=for-the-badge&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-CFBFF7?style=for-the-badge&logo=c++)
   
 </div>
 
@@ -34,11 +34,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-781e44?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-CFBFF7?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
 
   
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=781e44&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=its-cutie-valerie&color=CFBFF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
