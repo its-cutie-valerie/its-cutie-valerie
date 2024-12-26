@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=30&pause=1000&color=781e44&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=30&pause=1000&color=781e44&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal" alt="Typing SVG" />
   <img src="https://media1.tenor.com/m/Bgi_54meeiMAAAAC/anime-typing.gif"/>
 </div>
 
