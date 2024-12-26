@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=30&pause=1000&color=CFBFF7&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal" alt="Typing SVG" />
-  <img src="https://media1.tenor.com/m/Bgi_54meeiMAAAAC/anime-typing.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=30&pause=1000&color=db9090&center=true&vCenter=true&width=460&lines=I'm+Val+,+your+favorite+nerdy+gal" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/FP3KLUuiKOkAAAAC/computer-typing.gif"/>
 </div>
 
 ## ✨ About Me 
@@ -14,12 +14,12 @@
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-CFBFF7?style=for-the-badge&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-CFBFF7?style=for-the-badge&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-CFBFF7?style=for-the-badge&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML5-CFBFF7?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS3-CFBFF7?style=for-the-badge&logo=css3)
-  ![C++](https://img.shields.io/badge/-C++-CFBFF7?style=for-the-badge&logo=c++)
+  ![Python](https://img.shields.io/badge/-Python-db9090?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-db9090?style=for-the-badge&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-db9090?style=for-the-badge&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML5-db9090?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS3-db9090?style=for-the-badge&logo=css3)
+  ![C++](https://img.shields.io/badge/-C++-db9090?style=for-the-badge&logo=c++)
   
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-CFBFF7?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-db9090?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/valérie-nováková-a68960317)
 
   
 </div>
