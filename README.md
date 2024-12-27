@@ -5,7 +5,7 @@
 
 ## ✨ About Me 
 
-🎓 Bob the Builder in female version because she can fix it!   
+🎓 Bob the Builder in female version because **she can fix it!**   
 🐜 Smacking bugs like nobody else   
 📚 Big bookworm, hiking lover and full of fun facts   
 🥤 Turning energy drinks into code  
