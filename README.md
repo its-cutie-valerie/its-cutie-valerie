@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**its-cutie-valerie/its-cutie-valerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heyo! I’m Valérie 👋  
+**Junior IT Specialist** — curious, steady, and learning by building.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://c.tenor.com/rvG8ba__EHgAAAAC/tenor.gif" alt="soft header" width="300"/>
+</p>
+
+## About me
+- 🌱 Learning JavaScript (TypeScript), Python, basic DevOps & automation  
+- 💡 I enjoy small, useful projects — scripts that save time, tiny web apps, and clean documentation  
+- 🎯 Working on getting practical experience and level up into a single focus area
+- 👩‍💻 Trying to help with open source projects like freeCodeCamp
+
+---
+
+## Tech & tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv,js,ts,nodejs,express,html,css,tailwind,svg,git,linux,react,nextjs,electron,figma,cs,dotnet,postgres" />
+</p>
+
+---
+<p align="center">
+  <sub>Thanks for stopping by — I’m always learning and happy to chat about projects or help out.</sub>
+</p>
