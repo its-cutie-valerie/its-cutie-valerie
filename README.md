@@ -1,7 +1,7 @@
 <div align="center">
 
 # Heyo! I’m Valérie 👋  
-**Junior IT Specialist** — curious, steady, and learning by building.
+**Junior IT Specialist** — curious, steady, and learning by doing.
 
 </div>
 
