@@ -12,7 +12,7 @@
 </p>
 
 ## About me
-- 🌱 Learning JavaScript (TypeScript), Python, basic DevOps & automation  
+- 🌱 Currently going through the updated freeCodeCamp Full-Stack Developer Curriculum
 - 💡 I enjoy small, useful projects — scripts that save time, tiny web apps, and clean documentation  
 - 🎯 Working on getting practical experience and level up into a single focus area
 - 👩‍💻 Trying to help with open source projects like freeCodeCamp
