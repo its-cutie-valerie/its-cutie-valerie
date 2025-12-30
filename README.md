@@ -21,7 +21,7 @@
 
 ## Tech & tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv,js,ts,nodejs,express,html,css,tailwind,svg,git,linux,react,nextjs,electron,figma,cs,dotnet,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,html,css,tailwind,git,linux,react,electron,figma,cs,dotnet,postgres" />
 </p>
 
 ---
