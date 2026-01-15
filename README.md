@@ -1,7 +1,7 @@
 <div align="center">
 
 # Heyo! I’m Valérie 👋  
-**Junior Full-Snack Developer** — curious, steady, and learning by doing.
+**Full-Snack Developer** — curious, steady, and learning by doing.
 
 </div>
 
