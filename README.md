@@ -12,9 +12,9 @@
 </p>
 
 ## About me
-- 🌱 Currently going through the updated freeCodeCamp Full-Stack Developer Curriculum
-- 💡 I enjoy small, useful projects — scripts that save time, tiny web apps, and clean documentation  
-- 🎯 Working on getting practical experience and level up into a single focus area
+- 🌱 Currently just letting my ADHD brain jump from one cool project to another (don't look at the ever increasing pile of unfinished projects.
+- 💡 I enjoy building useful projects — scripts that save time, tiny apps, or even larger more complex ones.  
+- 🎯 Working on getting practical experience and level up in life (and get an army of bunnies to conquer the world!).
 - 👩‍💻 Trying to help with open source projects like freeCodeCamp
 
 ---
