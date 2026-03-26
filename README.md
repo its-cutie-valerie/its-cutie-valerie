@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://c.tenor.com/rvG8ba__EHgAAAAC/tenor.gif" alt="soft header" width="300"/>
+  <img src="https://c.tenor.com/rvG8ba__EHgAAAAC/tenor.gif" alt="soft header" width="500"/>
 </p>
 
 ## About me
