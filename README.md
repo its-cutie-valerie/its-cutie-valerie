@@ -16,6 +16,7 @@
 - 💡 I enjoy building useful projects — scripts that save time, tiny apps, or even larger more complex ones.  
 - 🎯 Working on getting practical experience and level up in life (and get an army of bunnies to conquer the world!).
 - 👩‍💻 Trying to help with open source projects like freeCodeCamp
+- 🏆 Won Codédex September 2025 Monthly Challenge with [Exquisite](https://github.com/its-cutie-valerie/Exquisite), and Codédex February 2026 Monthly Challenge with [The Sun's Temper](https://github.com/its-cutie-valerie/aurora-project).
 
 ---
 
